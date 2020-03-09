@@ -1,1 +1,1 @@
-Case study 2 of 'The New Weibull Handbook'
+Case study 3 of 'The New Weibull Handbook'
